@@ -34,7 +34,7 @@
 | **[양준용](https://github.com/7581058)** | **[김진우](https://github.com/dev-junehee)** | **[김세연](https://github.com/doitidey)** |
 | :---: | :---: | :---: |
 | <img src="https://avatars.githubusercontent.com/u/128226527?v=4" width=200px alt="양준용" /> | <img src="https://avatars.githubusercontent.com/u/105920346?v=4" width=200px alt="김진우" /> | <img src="https://avatars.githubusercontent.com/u/118176015?v=4" width=200px alt="김세연" /> |
-| <br> 로그인 <br/> 회원가입 <br/>관리자 페이지 <br />- 연차/당직관리 부분 승인 및<br> 거절 처리 상태 적용<br>- 사원관리 부분 수정 기능 적용, <br>검색 결과에 따른 페이지 적용 <br><br> | 메인 페이지<br/>마이 페이지<br/> | 관리자 페이지<br/> 연차/당직관리<br/>사원관리<br/> 로그아웃 |
+| <br> 로그인 <br/> 회원가입 <br/>관리자 페이지 <br /> -연차/당직관리 부분 승인 및 <br> 거절 처리 상태 적용<br> -사원관리 부분 수정 기능 적용, <br> 검색 결과에 따른 페이지 적용 <br><br> | 메인 페이지<br/>마이 페이지 <br/> | 관리자 페이지 <br/> -연차/당직관리<br/> -사원관리<br/> -로그아웃 |
 <br>
 
 ### 기술 스택
